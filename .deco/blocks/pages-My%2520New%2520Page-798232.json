@@ -1,0 +1,1 @@
+{"name":"My New Page","path":"/example-path","sections":[{"__resolveType":"Faq - default"},{"__resolveType":"site/sections/hero-2.tsx","name":"name","color":"green"}],"seo":{"__resolveType":"website/sections/Seo/SeoV2.tsx"},"__resolveType":"website/pages/Page.tsx"}
